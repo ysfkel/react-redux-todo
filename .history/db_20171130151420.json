@@ -1,0 +1,8 @@
+{
+    "todos": [
+        { "id": 1, "name": "create Static UI", "isComplete": true },
+        { "id": 2, "name": "create Initial State", "isComplete": false },
+        { "id": 3, "name": "Use state to render UI", "isComplete": false },
+        { "id": 4, "name": "Added todo", "isComplete": false }
+    ]
+}
